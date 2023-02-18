@@ -1,0 +1,12 @@
+input{
+    width: 95%;
+    display: flex;
+    padding: 7px 10px;
+    margin: 15px auto;
+    border-radius: 20px;
+    border: 1px solid white;
+}
+input[type=text]{
+    color: white;
+    font-size: 17px;
+}
