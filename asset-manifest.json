@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cards-filter-react/static/css/main.9e78adbe.css",
+    "main.js": "/cards-filter-react/static/js/main.f12f2936.js",
+    "index.html": "/cards-filter-react/index.html",
+    "main.9e78adbe.css.map": "/cards-filter-react/static/css/main.9e78adbe.css.map",
+    "main.f12f2936.js.map": "/cards-filter-react/static/js/main.f12f2936.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e78adbe.css",
+    "static/js/main.f12f2936.js"
+  ]
+}
